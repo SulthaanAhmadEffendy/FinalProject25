@@ -1,5 +1,3 @@
-package praktikumdaspro3;
-
 import java.util.Scanner;
 
 public class sewamobil {
