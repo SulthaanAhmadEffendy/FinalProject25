@@ -24,6 +24,9 @@ public class sewamobil {
 
         //output total biaya sewa mobil
         System.out.printf("Total biaya sewa mobil: Rp %,d%n", totalBiaya);
+
+
+        // sultannnn
     }
     
 }
