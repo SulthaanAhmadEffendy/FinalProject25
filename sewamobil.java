@@ -26,6 +26,7 @@ public class sewamobil {
 
         // hisyamuuuullllllll
         System.out.println("saya sudah join ini bu atas nama hisyam");
+        System.out.println("ijin coba lagi bu");
     }
     
 }
