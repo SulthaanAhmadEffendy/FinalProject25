@@ -4,7 +4,7 @@ public class sewamobil {
 
     public static void main(String[] args) {
 
-        // input lama sewa dalam hari dan jarak tempuh dalam km
+        // Sultaaaaannnnn
         Scanner scanner = new Scanner(System.in);
         System.out.println("Masukkan lama sewa (dalam hari): ");
         int lamaSewa = scanner.nextInt();
@@ -24,7 +24,8 @@ public class sewamobil {
         System.out.printf("Total biaya sewa mobil: Rp %,d%n", totalBiaya);
 
 
-        // sultannnn
+        // hisyamuuuullllllll
+        System.out.println("saya sudah join ini bu atas nama hisyam");
     }
     
 }
